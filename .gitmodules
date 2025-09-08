@@ -1,0 +1,6 @@
+[submodule "SEA-Salon"]
+	path = SEA-Salon
+	url = https://github.com/williamtheodoruswijaya/SEA-Salon.git
+[submodule "Seatudy"]
+	path = Seatudy
+	url = https://github.com/williamtheodoruswijaya/Seatudy.git
